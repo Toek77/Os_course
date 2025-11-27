@@ -1,0 +1,15 @@
+  217  tree
+  218  cd Desktop
+  219  mkdir FrenchFolder
+  220  cd ..
+  221  treee
+  222  tree
+  223  cd ..
+  224  ls
+  225  mkdir class_activity2
+  226  cd class_activity2
+  227  nano forkchild.c
+  228  gcc win_child.c -o win_child.exe
+  229  gcc -o forkchild forkchild.c
+  230  ./forkchild > result_forkchild.txt
+  231  history | tail -n 15 > command_used_forkchild.txt

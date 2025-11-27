@@ -1,0 +1,50 @@
+   73  touch ex2-command_history.txt
+   74  cd ..
+   75  tree
+   76  sudo install tree
+   77  sudo atp install tree
+   78  sudo apt install tree
+   79  cd ..
+   80  sudo apt install tree
+   81  cd lab2
+   82  tree
+   83  ssh gic-tak-toek@192.168.21.87
+   84  ls
+   85  mkdir class_activity1
+   86  cd class_activity1
+   87  nano syscall1.c
+   88  gcc syscall1.c -o syscall1
+   89  ls
+   90  sudo apt install gcc
+   91  ls
+   92  ./syscall1.c
+   93  ls
+   94  nano syscall1.c
+   95  ls
+   96  cd syscall1.c
+   97  cd syscall1
+   98  touch syscall1
+   99  cd syscall1
+  100  gcc syscall1.c -o syscall1
+  101  sudo apt install gcc
+  102  gcc syscall1.c -o syscall1
+  103  sudo apt install gcc
+  104  apt-get update
+  105  --fix-missing
+  106  gcc syscall1.c -o syscall1
+  107  sudo apt update
+  108  sudo apt install gcc
+  109  gcc syscall1.c -o syscall1
+  110  ./syscall1
+  111  ls
+  112  touch result.txt copyresult.txt
+  113  ls
+  114  nano result.txt
+  115  nano copyfilesyscall.c
+  116  gcc copyfilesyscall.c -o copyfilesyscall
+  117  ./copyfilesyscall
+  118  cat copyresult.txt
+  119  cat result.txt
+  120  cd ..
+  121  history | tail -n 50 > /home/thouthearo/class_activity1/syscall_commands_history.txt
+  122  history | tail -n 50 > /home/taktoek/class_activity1/syscall_commands_history.txt

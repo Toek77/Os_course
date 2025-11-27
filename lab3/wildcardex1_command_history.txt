@@ -1,0 +1,253 @@
+    1  ssh gic-tak-toek@192.168.21.203
+    2  ssh gic-tak-toek@172.23.144.52
+    3  ssh gic-tak-toek@172.23.144.52 
+    4  ssh gic-tak-toek@172.23.144.52
+    5  cd /home
+    6  mkdir ~/lab2
+    7  cd lab2
+    8  cd /lab2
+    9  c/home/gic-tak-toek/lab2
+   10  cd/home/gic-tak-toek/lab2 
+   11  cd /home/gic-tak-toek/lab2 
+   12  mkdir ~/lab2
+   13  c/home/taktoek/lab2 
+   14  cd /home/taktoek/lab2 
+   15  mkdir ex1
+   16  cd ex1
+   17  mkdir etc
+   18  cd etc
+   19  mkdir interfaces
+   20  cd interfaces
+   21  mkdir systemd
+   22  cd systemd
+   23  ssh gic-tak-toek@192.168.21.122 
+   24  ssh gic-tak-toek@192.168.21.203
+   25  ssh gic-tak-toek@192.168.21.122
+   26  ssh gic-tak-toek@192.168.22.122 
+   27  mkdir lab1
+   28  mkdir lab2
+   29  cd lab2
+   30  mkdir ex1
+   31  tree
+   32  ls tree
+   33  ls
+   34  cd ..
+   35  rm -r lab2
+   36  ls lab2
+   37  ls
+   38  mkdir lab2
+   39  cd lab2
+   40  mkdir ex1
+   41  cd ex1
+   42  mkdir etc
+   43  cd etc
+   44  mkdir network
+   45  cd network
+   46  touch interfaces
+   47  cd ..
+   48  mkdir systemd
+   49  cd systemd
+   50  touch resolved.conf
+   51  mkdir system
+   52  touch system.conf
+   53  mkdir user
+   54  touch user.conf
+   55  cd ..
+   56  mkdir udev
+   57  cd udev
+   58  mkdir rules.d
+   59  touch udev.conf
+   60  cd ../..
+   61  touch ex1_command_history.txt
+   62  mkdir home
+   63  cd home
+   64  mkdir lost+found 
+   65  mkdir user
+   66  cd user
+   67  mkdir Documents
+   68  cd ../..
+   69  touch result1.txt
+   70  cd ..
+   71  mkdir ex2
+   72  cd ex2
+   73  touch ex2-command_history.txt
+   74  cd ..
+   75  tree
+   76  sudo install tree
+   77  sudo atp install tree
+   78  sudo apt install tree
+   79  cd ..
+   80  sudo apt install tree
+   81  cd lab2
+   82  tree
+   83  ssh gic-tak-toek@192.168.21.87
+   84  ls
+   85  mkdir class_activity1
+   86  cd class_activity1
+   87  nano syscall1.c
+   88  gcc syscall1.c -o syscall1
+   89  ls
+   90  sudo apt install gcc
+   91  ls
+   92  ./syscall1.c
+   93  ls
+   94  nano syscall1.c
+   95  ls
+   96  cd syscall1.c
+   97  cd syscall1
+   98  touch syscall1
+   99  cd syscall1
+  100  gcc syscall1.c -o syscall1
+  101  sudo apt install gcc
+  102  gcc syscall1.c -o syscall1
+  103  sudo apt install gcc
+  104  apt-get update
+  105  --fix-missing
+  106  gcc syscall1.c -o syscall1
+  107  sudo apt update
+  108  sudo apt install gcc
+  109  gcc syscall1.c -o syscall1
+  110  ./syscall1
+  111  ls
+  112  touch result.txt copyresult.txt
+  113  ls
+  114  nano result.txt
+  115  nano copyfilesyscall.c
+  116  gcc copyfilesyscall.c -o copyfilesyscall
+  117  ./copyfilesyscall
+  118  cat copyresult.txt
+  119  cat result.txt
+  120  cd ..
+  121  history | tail -n 50 > /home/thouthearo/class_activity1/syscall_commands_history.txt
+  122  history | tail -n 50 > /home/taktoek/class_activity1/syscall_commands_history.txt
+  123  cat /home/taktoek/class_activity1/syscall_commands_history.txt
+  124  ls
+  125  cd lab2
+  126  tree
+  127  cd ..
+  128  mkdir lab3
+  129  cd lab3
+  130  mkdir CopyingFolder
+  131  cd CopyingFolder
+  132  touch copied.txt
+  133  cd..
+  134  cd ../..
+  135  cd lab3
+  136  mkdir Documents
+  137  cd Documents
+  138  touch one.txt
+  139  touch two.txt
+  140  touch three.txt
+  141  touch four.txt
+  142  touch five.txt
+  143  cd ..
+  144  tree
+  145  cp * ../CopyingFolder/
+  146  cd Documents
+  147  cp * ../CopyingFolder/
+  148  cd ..
+  149  tree
+  150  mkdir Desktop
+  151  cd Documents
+  152  touch one_document.txt
+  153  touch two_document.txt
+  154  touch three_document.txt
+  155  toucch four_document.txt
+  156  touch four_document.txt
+  157  touch five_document.txt
+  158  echo 1 > one_document.txt
+  159  tree
+  160  echo 2 > two_document.txt
+  161  tree
+  162  echo 3 > three_document.txt
+  163  echo 4 > four_document.txt
+  164  echo 5 > five_document.txt
+  165  mv one_document.txt document_un.txt
+  166  mv two_document.txt document_deux.txt
+  167  mv three_document.txt document_trois.txt
+  168  mv four_document.txt document_quatre.txt
+  169  mv five_document.txt document_cinque.txt
+  170  cd ..
+  171  mkdir MoveFolder
+  172  cd MoveFolder
+  173  cd..
+  174  cd ..
+  175  cd Documents
+  176  mv * ../MoveFolder/
+  177  cd MoveFolder
+  178  cd ..
+  179  cd MoveFolder
+  180  cd ..
+  181  cd Desktop
+  182  mkdir FrenchFolder
+  183  cd ..
+  184  tree
+  185  cd MoveFolder
+  186  mv * ../FrenchFolder/
+  187  mv * ../Desktop/FrenchFolder/
+  188  tree
+  189  cd ..
+  190  tree
+  191  cd ~
+  192  cd lab3
+  193  cd FrenchFolder
+  194  cd Desktop/FrenchFolder
+  195  rm document_deux.txt
+  196  cd ../..
+  197  cd Documents
+  198  mkdir EmptyFolder
+  199  cd EmptyFolder
+  200  touch deletefile.txt
+  201  mkdir DeleteFolder
+  202  rm DeleteFolder
+  203  rm -r DeleteFolder
+  204  cd ../..
+  205  tree
+  206  cd Documents
+  207  rm -r EmptyFolder
+  208  cd ..
+  209  cd Desktop/FrenchFolder
+  210  rm FrenchFolder * .txt
+  211  cd ..
+  212  rm FrenchFolder * .txt
+  213  rm -r FrenchFolder * .txt
+  214  cd FrenchFolder
+  215  tree
+  216  cd ..
+  217  tree
+  218  cd Desktop
+  219  mkdir FrenchFolder
+  220  cd ..
+  221  treee
+  222  tree
+  223  cd ..
+  224  ls
+  225  mkdir class_activity2
+  226  cd class_activity2
+  227  nano forkchild.c
+  228  gcc win_child.c -o win_child.exe
+  229  gcc -o forkchild forkchild.c
+  230  ./forkchild > result_forkchild.txt
+  231  history | tail -n 15 > command_used_forkchild.txt
+  232  tree
+  233  ls
+  234  cd class_activity1
+  235  tree
+  236  cd ..
+  237  cd lab3
+  238  tree
+  239  cd..
+  240  cd ..
+  241  ssh gic-tak-toek@192.168.23.32
+  242  LS
+  243  ls
+  244  cd class_activity2
+  245  tree
+  246  cd ..
+  247  cd lab2
+  248  tree
+  249  cd ..
+  250  cd lab3
+  251  tree
+  252  tree ~ > ~/lab3/tree_structure_after_remove.txt 
+  253  history > ~/lab3/wildcardex1_command_history.txt 

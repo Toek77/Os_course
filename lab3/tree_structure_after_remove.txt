@@ -1,0 +1,52 @@
+/home/taktoek
+├── class_activity1
+│   ├── copyfilesyscall
+│   ├── copyfilesyscall.c
+│   ├── copyresult.txt
+│   ├── result.txt
+│   ├── syscall1
+│   ├── syscall1.c
+│   └── syscall_commands_history.txt
+├── class_activity2
+│   ├── command_used_forkchild.txt
+│   ├── forkchild
+│   ├── forkchild.c
+│   └── result_forkchild.txt
+├── lab1
+├── lab2
+│   ├── ex1
+│   │   ├── etc
+│   │   │   ├── network
+│   │   │   │   └── interfaces
+│   │   │   ├── systemd
+│   │   │   │   ├── resolved.conf
+│   │   │   │   ├── system
+│   │   │   │   ├── system.conf
+│   │   │   │   ├── user
+│   │   │   │   └── user.conf
+│   │   │   └── udev
+│   │   │       ├── rules.d
+│   │   │       └── udev.conf
+│   │   ├── ex1_command_history.txt
+│   │   ├── home
+│   │   │   ├── lost+found
+│   │   │   └── user
+│   │   │       └── Documents
+│   │   └── result1.txt
+│   └── ex2
+│       └── ex2-command_history.txt
+└── lab3
+    ├── CopyingFolder
+    │   ├── copied.txt
+    │   ├── five.txt
+    │   ├── four.txt
+    │   ├── one.txt
+    │   ├── three.txt
+    │   └── two.txt
+    ├── Desktop
+    │   └── FrenchFolder
+    ├── Documents
+    ├── MoveFolder
+    └── tree_structure_after_remove.txt
+
+24 directories, 26 files
