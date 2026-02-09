@@ -1,0 +1,63 @@
+2026-02-05T12:43:07.723618+07:00 LAPTOP-6OTU1RGQ systemd-logind[202]: New seat seat0.
+2026-02-05T12:43:07.396989+07:00 LAPTOP-6OTU1RGQ login[340]: PAM unable to dlopen(pam_lastlog.so): /usr/lib/security/pam_lastlog.so: cannot open shared object file: No such file or directory
+2026-02-05T12:43:07.397069+07:00 LAPTOP-6OTU1RGQ login[340]: PAM adding faulty module: pam_lastlog.so
+2026-02-05T12:43:07.676768+07:00 LAPTOP-6OTU1RGQ login[340]: pam_unix(login:session): session opened for user taktoek(uid=1000) by taktoek(uid=0)
+2026-02-05T12:43:07.751044+07:00 LAPTOP-6OTU1RGQ systemd-logind[202]: New session 1 of user taktoek.
+2026-02-05T12:43:07.762311+07:00 LAPTOP-6OTU1RGQ (systemd): pam_unix(systemd-user:session): session opened for user taktoek(uid=1000) by taktoek(uid=0)
+2026-02-05T15:09:00.837557+07:00 LAPTOP-6OTU1RGQ systemd-logind[200]: New seat seat0.
+2026-02-05T15:09:01.824087+07:00 LAPTOP-6OTU1RGQ login[322]: PAM unable to dlopen(pam_lastlog.so): /usr/lib/security/pam_lastlog.so: cannot open shared object file: No such file or directory
+2026-02-05T15:09:01.824167+07:00 LAPTOP-6OTU1RGQ login[322]: PAM adding faulty module: pam_lastlog.so
+2026-02-05T15:09:02.071873+07:00 LAPTOP-6OTU1RGQ login[322]: pam_unix(login:session): session opened for user taktoek(uid=1000) by taktoek(uid=0)
+2026-02-05T15:09:02.120641+07:00 LAPTOP-6OTU1RGQ systemd-logind[200]: New session 1 of user taktoek.
+2026-02-05T15:09:02.131136+07:00 LAPTOP-6OTU1RGQ (systemd): pam_unix(systemd-user:session): session opened for user taktoek(uid=1000) by taktoek(uid=0)
+2026-02-05T15:17:01.041400+07:00 LAPTOP-6OTU1RGQ CRON[516]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-02-05T15:17:01.044946+07:00 LAPTOP-6OTU1RGQ CRON[516]: pam_unix(cron:session): session closed for user root
+2026-02-05T15:32:36.960175+07:00 LAPTOP-6OTU1RGQ systemd-logind[199]: New seat seat0.
+2026-02-05T15:32:37.951967+07:00 LAPTOP-6OTU1RGQ login[320]: PAM unable to dlopen(pam_lastlog.so): /usr/lib/security/pam_lastlog.so: cannot open shared object file: No such file or directory
+2026-02-05T15:32:37.952049+07:00 LAPTOP-6OTU1RGQ login[320]: PAM adding faulty module: pam_lastlog.so
+2026-02-05T15:32:38.226023+07:00 LAPTOP-6OTU1RGQ login[320]: pam_unix(login:session): session opened for user taktoek(uid=1000) by taktoek(uid=0)
+2026-02-05T15:32:38.288091+07:00 LAPTOP-6OTU1RGQ systemd-logind[199]: New session 1 of user taktoek.
+2026-02-05T15:32:38.301708+07:00 LAPTOP-6OTU1RGQ (systemd): pam_unix(systemd-user:session): session opened for user taktoek(uid=1000) by taktoek(uid=0)
+2026-02-05T16:48:24.335439+07:00 LAPTOP-6OTU1RGQ systemd-logind[197]: New seat seat0.
+2026-02-05T16:48:25.248288+07:00 LAPTOP-6OTU1RGQ login[315]: PAM unable to dlopen(pam_lastlog.so): /usr/lib/security/pam_lastlog.so: cannot open shared object file: No such file or directory
+2026-02-05T16:48:25.248390+07:00 LAPTOP-6OTU1RGQ login[315]: PAM adding faulty module: pam_lastlog.so
+2026-02-05T16:48:25.523219+07:00 LAPTOP-6OTU1RGQ login[315]: pam_unix(login:session): session opened for user taktoek(uid=1000) by taktoek(uid=0)
+2026-02-05T16:48:25.597389+07:00 LAPTOP-6OTU1RGQ systemd-logind[197]: New session 1 of user taktoek.
+2026-02-05T16:48:25.607266+07:00 LAPTOP-6OTU1RGQ (systemd): pam_unix(systemd-user:session): session opened for user taktoek(uid=1000) by taktoek(uid=0)
+2026-02-05T17:17:01.261371+07:00 LAPTOP-6OTU1RGQ CRON[703]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-02-05T17:17:01.264221+07:00 LAPTOP-6OTU1RGQ CRON[703]: pam_unix(cron:session): session closed for user root
+2026-02-05T18:17:01.300329+07:00 LAPTOP-6OTU1RGQ CRON[1123]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-02-05T18:17:01.304959+07:00 LAPTOP-6OTU1RGQ CRON[1123]: pam_unix(cron:session): session closed for user root
+2026-02-05T20:42:14.188860+07:00 LAPTOP-6OTU1RGQ systemd-logind[200]: New seat seat0.
+2026-02-05T20:42:14.500294+07:00 LAPTOP-6OTU1RGQ login[320]: PAM unable to dlopen(pam_lastlog.so): /usr/lib/security/pam_lastlog.so: cannot open shared object file: No such file or directory
+2026-02-05T20:42:14.500407+07:00 LAPTOP-6OTU1RGQ login[320]: PAM adding faulty module: pam_lastlog.so
+2026-02-05T20:42:14.787926+07:00 LAPTOP-6OTU1RGQ login[320]: pam_unix(login:session): session opened for user taktoek(uid=1000) by taktoek(uid=0)
+2026-02-05T20:42:14.857657+07:00 LAPTOP-6OTU1RGQ systemd-logind[200]: New session 1 of user taktoek.
+2026-02-05T20:42:14.867910+07:00 LAPTOP-6OTU1RGQ (systemd): pam_unix(systemd-user:session): session opened for user taktoek(uid=1000) by taktoek(uid=0)
+2026-02-05T21:22:16.616341+07:00 LAPTOP-6OTU1RGQ systemd-logind[197]: New seat seat0.
+2026-02-05T21:22:16.846765+07:00 LAPTOP-6OTU1RGQ login[321]: PAM unable to dlopen(pam_lastlog.so): /usr/lib/security/pam_lastlog.so: cannot open shared object file: No such file or directory
+2026-02-05T21:22:16.846848+07:00 LAPTOP-6OTU1RGQ login[321]: PAM adding faulty module: pam_lastlog.so
+2026-02-05T21:22:17.108608+07:00 LAPTOP-6OTU1RGQ login[321]: pam_unix(login:session): session opened for user taktoek(uid=1000) by taktoek(uid=0)
+2026-02-05T21:22:17.179183+07:00 LAPTOP-6OTU1RGQ systemd-logind[197]: New session 1 of user taktoek.
+2026-02-05T21:22:17.190954+07:00 LAPTOP-6OTU1RGQ (systemd): pam_unix(systemd-user:session): session opened for user taktoek(uid=1000) by taktoek(uid=0)
+2026-02-05T21:28:13.989763+07:00 LAPTOP-6OTU1RGQ sudo:  taktoek : TTY=pts/0 ; PWD=/home/taktoek/lab9-more-script2 ; USER=root ; COMMAND=./user_management.sh
+2026-02-05T21:28:13.990013+07:00 LAPTOP-6OTU1RGQ sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+2026-02-05T21:29:02.227065+07:00 LAPTOP-6OTU1RGQ groupadd[504]: group added to /etc/group: name=test1, GID=1001
+2026-02-05T21:29:02.232015+07:00 LAPTOP-6OTU1RGQ groupadd[504]: group added to /etc/gshadow: name=test1
+2026-02-05T21:29:02.233537+07:00 LAPTOP-6OTU1RGQ groupadd[504]: new group: name=test1, GID=1001
+2026-02-05T21:29:07.848799+07:00 LAPTOP-6OTU1RGQ useradd[511]: new user: name=Sam, UID=1001, GID=1001, home=/home/Sam, shell=/bin/bash, from=/dev/pts/2
+2026-02-05T21:29:13.276715+07:00 LAPTOP-6OTU1RGQ passwd[519]: pam_unix(passwd:chauthtok): password changed for Sam
+2026-02-05T21:30:43.588226+07:00 LAPTOP-6OTU1RGQ groupadd[537]: group added to /etc/group: name=exit, GID=1002
+2026-02-05T21:30:43.593294+07:00 LAPTOP-6OTU1RGQ groupadd[537]: group added to /etc/gshadow: name=exit
+2026-02-05T21:30:43.594943+07:00 LAPTOP-6OTU1RGQ groupadd[537]: new group: name=exit, GID=1002
+2026-02-05T21:30:56.469033+07:00 LAPTOP-6OTU1RGQ sudo: pam_unix(sudo:session): session closed for user root
+2026-02-09T22:26:41.249595+07:00 LAPTOP-6OTU1RGQ systemd-logind[203]: New seat seat0.
+2026-02-09T22:26:42.121382+07:00 LAPTOP-6OTU1RGQ login[326]: PAM unable to dlopen(pam_lastlog.so): /usr/lib/security/pam_lastlog.so: cannot open shared object file: No such file or directory
+2026-02-09T22:26:42.121479+07:00 LAPTOP-6OTU1RGQ login[326]: PAM adding faulty module: pam_lastlog.so
+2026-02-09T22:26:42.383158+07:00 LAPTOP-6OTU1RGQ login[326]: pam_unix(login:session): session opened for user taktoek(uid=1000) by taktoek(uid=0)
+2026-02-09T22:26:42.457423+07:00 LAPTOP-6OTU1RGQ systemd-logind[203]: New session 1 of user taktoek.
+2026-02-09T22:26:42.469787+07:00 LAPTOP-6OTU1RGQ (systemd): pam_unix(systemd-user:session): session opened for user taktoek(uid=1000) by taktoek(uid=0)
+2026-02-09T22:40:38.109259+07:00 LAPTOP-6OTU1RGQ sudo:  taktoek : TTY=pts/0 ; PWD=/home/taktoek ; USER=root ; COMMAND=/usr/bin/tar -cvf /home/taktoek/archive/log.tar -C /var/log ./*.log
+2026-02-09T22:40:38.114556+07:00 LAPTOP-6OTU1RGQ sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+2026-02-09T22:40:38.116958+07:00 LAPTOP-6OTU1RGQ sudo: pam_unix(sudo:session): session closed for user root
+2026-02-09T22:43:40.022169+07:00 LAPTOP-6OTU1RGQ sudo:  taktoek : TTY=pts/0 ; PWD=/var/log ; USER=root ; COMMAND=/usr/bin/tar -cvf /home/taktoek/archive/log.tar alternatives.log auth.log bootstrap.log dpkg.log fontconfig.log kern.log
